@@ -1,6 +1,6 @@
 
 from configparser import ConfigParser
-
+bilel = "e"
 parser = ConfigParser() 
 parser.read('configuration.ini')
 
